@@ -1,6 +1,6 @@
-### Managing Earthquakes Better with AI
+# Managing Earthquakes Better with AI
 
-# Introduction
+### Introduction
 
 
 
