@@ -21,6 +21,14 @@ The data was in from of numpy arrays. I plotted seismograms and concatenated all
                                                  3-component Siesmogram Image Indicating an Earthquake
 ![13](https://user-images.githubusercontent.com/70457881/114484849-edcfec80-9bd8-11eb-92fd-f42e3a5c878f.jpg)
 
+These images were fed into a ResNet model and the model was trained to identify each image as noise or earthquake.
+
+### Testing Accuracy
+I tested the model for almost 1000 images and I got AUC = 96%
+
+### Conclusion
+This was my first independent Data Science project and I enjoyed working on it through out. It was a great learning eaxperience. We can further improve results by making accurate predictions well before time. This can be achieved by using LSTMs and RNNs. This model can also help us in understanding earth activity better which can help us in minimizing damage caused by earthquakes.
+
 
 
 
