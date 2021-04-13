@@ -10,6 +10,7 @@ Data can be found here:
 https://zenodo.org/record/3648232#.YHTo3OhKhPY
 
 ![3-component EQ](https://user-images.githubusercontent.com/70457881/114481335-58c9f500-9bd2-11eb-9255-ae03f2bc186c.jpg)
+
 3-Component Earthquake Seismograms
 
 
