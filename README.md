@@ -15,6 +15,15 @@ https://zenodo.org/record/3648232#.YHTo3OhKhPY
                                               3-Component Noise Seismograms
 ![3-component noise](https://user-images.githubusercontent.com/70457881/114481702-194fd880-9bd3-11eb-8f86-0e6f44900a08.jpg)
 
+### Data Preprocessing and Training 
+The data was in from of numpy arrays. I plotted seismograms and concatenated all the 3 components and saved it as asingle jpeg image after removing all the irrelevant informaiton. After preprocessing images looked like this:
+                                                 
+                                                 3-component Siesmogram Image Indicating an Earthquake
+![13](https://user-images.githubusercontent.com/70457881/114484849-edcfec80-9bd8-11eb-92fd-f42e3a5c878f.jpg)
+
+
+
+
 
 
 
