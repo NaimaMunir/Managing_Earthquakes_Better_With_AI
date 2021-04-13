@@ -12,6 +12,10 @@ https://zenodo.org/record/3648232#.YHTo3OhKhPY
                                               3-Component Earthquake Seismograms
 ![3-component EQ](https://user-images.githubusercontent.com/70457881/114481335-58c9f500-9bd2-11eb-9255-ae03f2bc186c.jpg)
 
+                                              3-Component Noise Seismograms
+![3-component noise](https://user-images.githubusercontent.com/70457881/114481702-194fd880-9bd3-11eb-8f86-0e6f44900a08.jpg)
+
+
 
 
 
