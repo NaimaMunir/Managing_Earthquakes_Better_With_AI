@@ -9,8 +9,8 @@ I got access to open source data of 3-component siesmograms labelled as noise an
 Data can be found here:
 https://zenodo.org/record/3648232#.YHTo3OhKhPY
 
-![3-component EQ]
-(https://user-images.githubusercontent.com/70457881/114481238-2cae7400-9bd2-11eb-8d70-613c849639aa.jpg)
+![3-component EQ](https://user-images.githubusercontent.com/70457881/114481335-58c9f500-9bd2-11eb-9255-ae03f2bc186c.jpg)
+
 
 
 
